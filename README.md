@@ -25,8 +25,8 @@
 > apt update && apt upgrade
 > pkg install git
 > pkg install bash
-> git clone https://github.com/sparroo/jarvisv3
-> cd jarvis
+> git clone https://github.com/BTH-MODS/Fark-bth
+> cd Fark-bth
 > bash install.sh
 > npm start
 > SCAN THE QR CODE
@@ -50,7 +50,7 @@
 
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
+* [`WhatsApp Number `](wa.me//+918891903813)
 * [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
 
 
