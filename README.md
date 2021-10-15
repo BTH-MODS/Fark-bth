@@ -51,7 +51,7 @@
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`WhatsApp Number `](wa.me//+918891903813)
-* [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
+* [`WhatsApp Group `](https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu)
 
 
 # THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
